@@ -1,5 +1,5 @@
 const vrbo = {
-    "total_count": 142,
+    "total_count": 10,
     "sentences": [
         {
             "sentence_id": 8234924315,

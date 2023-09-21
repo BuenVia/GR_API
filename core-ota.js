@@ -1,5 +1,5 @@
 const coreOta = {
-    "total_count": 263,
+    "total_count": 10,
     "sentences": [
         {
             "sentence_id": 8234839417,
